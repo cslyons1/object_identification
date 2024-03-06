@@ -1,7 +1,9 @@
 # object_identification
 Computer vision project aiming to train a model to identify people within live video inputs
 
-Source of the dataset used in this project: https://www.kaggle.com/datasets/fareselmenshawii/human-dataset
+Source of the dataset used in my project: https://www.kaggle.com/datasets/fareselmenshawii/human-dataset
+
+Download you dataset, split between training and validation sets, annotate, and save in the appropriate folders.
 
 pip install the Ultralytics library in a venv to eliminate any compatability issues with previously installed libraries.
 
