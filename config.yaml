@@ -1,0 +1,10 @@
+#change path to data
+path: C:\Users\shm0d\Desktop\Object_Detection
+
+#paths to info relative to path
+train: images\train
+val: images\val
+
+# Classes
+names:
+  0: person
